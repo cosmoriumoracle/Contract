@@ -6,16 +6,17 @@ coverY: 0
 # 🪙 Tokenomics
 
 Token name : Cosmorium\
-Symbol ticker: \
+Symbol ticker: COSMO\
 Token type: BEP-20\
 Contract Address : 0x000000000000000
 
 **Details :**
 
-1. Tax : 10/10&#x20;
-2. Supply : 100 000 000&#x20;
-3. Liquidity : 80 000 000&#x20;
-4. Team : 5 000 000
+1. Tax : 10/10 Supply : 100 000 000&#x20;
+2. Liquidity : 80 000 000 80%&#x20;
+3. Team : 5 000 000 5%&#x20;
+4. Listing Purpose : 10 000 000 10%&#x20;
+5. Staking : 5 000 000 5%
 
 \
 The process of the Cosmorium token allocation will be based on a community-type distribution, whereby each of these stakeholders will play an important part in the ecosystem.
