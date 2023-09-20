@@ -13,11 +13,11 @@ Contract Address : 0x000000000000000
 **Details :**
 
 1. Tax : 10/10&#x20;
-2. Supply : 100 000 000&#x20;
-3. Liquidity : 80 000 000 (80%)&#x20;
-4. Team : 5 000 000 (5%)
-5. Listing Purpose : 10 000 000 (10%)&#x20;
-6. Staking : 5 000 000 (5%)
+2. Supply : 100,000,000&#x20;
+3. Liquidity : 80,000,000 (80%)&#x20;
+4. Team : 5,000,000 (5%)
+5. Listing Purpose : 10,000,000 (10%)&#x20;
+6. Staking : 5,000,000 (5%)
 
 \
 The process of the Cosmorium token allocation will be based on a community-type distribution, whereby each of these stakeholders will play an important part in the ecosystem.
